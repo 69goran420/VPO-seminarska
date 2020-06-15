@@ -1,0 +1,41 @@
+body {
+    background-color: dimgray;
+    font-family: Arial
+}
+h1 {
+    color: dimgray;
+    text-align: center;
+    border-style:solid;
+    border-radius:50px;
+}
+
+h2 {
+    color:white;
+    border-style:solid;
+    border-radius:6px;
+    
+}
+p {
+    color: white;
+    font-size: 21px;
+}
+p1{
+    color:red;
+    font-size:70px;
+}
+.vrh {
+    background-color: white;
+    padding: 40px
+}
+.vrh p {
+    color: white;
+    border-style:solid;
+    border-color:black;
+}
+.vsebina {
+    background-color: dimgrey;
+    padding: 40px
+}
+.vsebina p {
+    color: white;
+}
